@@ -1,24 +1,5 @@
 # 🌍 Worldwide Energy Consumption Analysis using mysql
-
-## 👨‍💻 About Me  
-**Name:** Pavan Suresh Ahire  
-**Education:** Bachelor’s Degree in Computer Applications  
-**Interest:** Learning **Data Science** to analyze data, find insights, and support decision-making.  
-🔗 [LinkedIn](https://www.linkedin.com/in/pavan-ahire-260940364) | [GitHub](https://github.com/pavan-ahire)  
-
----
-
-# ⚡ Worldwide Energy Consumption Analysis  
-*A Data-Driven SQL Project on Global Energy Trends*  
-
-![Energy Banner](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql)  
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-green)  
-![Status](https://img.shields.io/badge/Project-Completed-success)  
-
-
-<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/e8254370-9d21-42cd-be25-266a085e3b11" />
-
----
+# ⚡ Worldwide Energy Consumption Analysis ?
 
 ## 🌟 Why This Project?  
 Energy is at the **heart of global development** 🌍.  
